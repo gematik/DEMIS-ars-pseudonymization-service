@@ -2,5 +2,9 @@
  
 # Release notes ARS-Pseudonymization-Service
 
+## Release 1.1.0
+- setting new timeouts and retries in helm chart
+- update spring-parent to 2.10.0
+
 ## Release 1.0.0
 - Initial Project setup
